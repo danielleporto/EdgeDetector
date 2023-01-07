@@ -1,5 +1,5 @@
 # EdgeDetector
-This is an assignment I did for my Into to Image Understanding class at UofT.  This code uses a homography to match features of two different images of the same thing.
+This an assignment I completed for my Intro to Image Understanding class at UofT. This code implements a rudimentary edge detection process that uses a derivative of the Gaussian function.
 
 Please make sure opencv is installed before running this program - you can
 run the following command to do this: pip install opencv-python
